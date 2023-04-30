@@ -1,4 +1,3 @@
-# SimonHic.github.io
 # Starter Tech Profile for ***Simon Hickey***
 
 ---
