@@ -1,5 +1,5 @@
 #Build Settings
 markdown: kramdown
-remote_theme: jekyll-theme-midnight
+remote_theme: forty-jekyll-theme
 plugins:
 - jekyll-remote-theme
