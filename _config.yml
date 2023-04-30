@@ -1,3 +1,4 @@
 #Build Settings
 markdown: kramdown
-remote_theme: benbalter/retlab
+remote_theme: jekyll-time-machine/time-machine-theme
+
