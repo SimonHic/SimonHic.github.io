@@ -1,5 +1,3 @@
-# Starter Tech Profile for ***Simon Hickey***
-
 ---
 
 # Markdown
