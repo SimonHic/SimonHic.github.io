@@ -1,4 +1,4 @@
 #Build Settings
 markdown: kramdown
-remote_theme: jekyll-time-machine/time-machine-theme
+remote_theme: monokai
 
