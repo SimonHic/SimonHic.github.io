@@ -1,4 +1,4 @@
-    SimonHic.github.io
+# SimonHic.github.io
 # Starter Tech Profile for ***Simon Hickey***
 
 ---
@@ -11,9 +11,11 @@ This readme is written in *markdown*.
 
 ## Main Programming Languages
 
-- Java
 - Kotlin
 - Python
+- Java
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SimonHic&theme=monokai)](https://github.com/SimonHic/github-readme-stats)
 
 ---
 
